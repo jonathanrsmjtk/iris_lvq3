@@ -12,7 +12,7 @@ Iris datasets contains three flower species with features (columns) such as
 ![alt text](https://miro.medium.com/max/700/0*nn39yHJ4LHqkaCjG.jpg)
 
 # Comparison
-Comparing with two other methods, you can see accuracy of LVQ 3 in plot below:
+Comparing with two other methods in K-Fold cross validation, you can see accuracy of LVQ 3 in plot below:
 
 ![alt text](https://github.com/jonathanrsmjtk/iris_lvq3/raw/master/download.png)
 
