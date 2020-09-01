@@ -17,9 +17,9 @@ Comparing with two other methods in K-Fold cross validation, you can see accurac
 ![alt text](https://github.com/jonathanrsmjtk/iris_lvq3/raw/master/download.png)
 
 or these are results mean of:
-K-NN: 99,3%
-LVQ 3: 97,3%
-RFC:  98,67%
+- K-NN: 99,3%
+- LVQ 3: 97,3%
+- RFC:  98,67%
 
 sure, it depends on parameter you used for three methods above.
 
